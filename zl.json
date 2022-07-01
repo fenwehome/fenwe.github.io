@@ -1,5 +1,7 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/fenwehome/fenwehome.github.io/jar/custom_spider.jar",
+  "spider": "https://github.com/fenwehome/fenwehome.github.io/blob/main/jar/custom_spider.jar?raw=true",
+
+>>>>>>> 583a59e1565ab20e2e7840519a665f521a5e1d77
   "sites": [
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
