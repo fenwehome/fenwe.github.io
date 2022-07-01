@@ -1,6 +1,6 @@
 {
   //"spider": "https://cdn.jsdelivr.net/gh/fenwehome/fenwehome.github.io/jar/custom_spider.jar",
-  "spider": "https://fenwehome.github.io/jar/custom_spider.jar?raw=true",
+  "spider": "https://fenwe.coding.net/p/catvod/d/fenwe/git/raw/master/jr/custom_spider.jar",
 
   "sites": [
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
