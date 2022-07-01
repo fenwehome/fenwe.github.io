@@ -1,6 +1,6 @@
 {
 "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-"spider": "https://cdn.jsdelivr.net/gh/fenwehome/fenwehome.github.io/jar/0701.jar",
+"spider": "https://jihulab.com/fenwehome/catvod/-/raw/main/0701.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2ZlbndlaG9tZS9mZW53ZWhvbWUuZ2l0aHViLmlvL3R2L3R2ODg="]}]}],
 "sites": [
 {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
